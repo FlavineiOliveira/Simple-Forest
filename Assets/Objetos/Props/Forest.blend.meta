@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 0cd4c230a8cdd8445b61f40f17aa24e7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arvore1
+    100002: Arvore2_001
+    100004: Arvore3
+    100006: ArvoreTriangulo1_001
+    100008: ArvoreTriangulo2_000
+    100010: ArvoreTriangulo2_001
+    100012: ArvoreTriangulo3_003
+    100014: Fogueira
+    100016: //RootNode
+    100018: Grama1
+    100020: Grama10
+    100022: Grama11
+    100024: Grama12
+    100026: Grama13
+    100028: Grama2
+    100030: Grama3
+    100032: Grama4
+    100034: Grama5
+    100036: Grama6
+    100038: Grama7
+    100040: Grama8
+    100042: Grama9
+    100044: Gramado
+    100046: Pedra1
+    100048: Pedra2
+    100050: Pedra3
+    100052: Pedra4
+    400000: Arvore1
+    400002: Arvore2_001
+    400004: Arvore3
+    400006: ArvoreTriangulo1_001
+    400008: ArvoreTriangulo2_000
+    400010: ArvoreTriangulo2_001
+    400012: ArvoreTriangulo3_003
+    400014: Fogueira
+    400016: //RootNode
+    400018: Grama1
+    400020: Grama10
+    400022: Grama11
+    400024: Grama12
+    400026: Grama13
+    400028: Grama2
+    400030: Grama3
+    400032: Grama4
+    400034: Grama5
+    400036: Grama6
+    400038: Grama7
+    400040: Grama8
+    400042: Grama9
+    400044: Gramado
+    400046: Pedra1
+    400048: Pedra2
+    400050: Pedra3
+    400052: Pedra4
+    2100000: ArvoreTriangulo
+    2100002: CauleArvore
+    2100004: Grama
+    2100006: Rochas
+    2100008: Gramado
+    2300000: Arvore1
+    2300002: Arvore2_001
+    2300004: Arvore3
+    2300006: ArvoreTriangulo1_001
+    2300008: ArvoreTriangulo2_000
+    2300010: ArvoreTriangulo2_001
+    2300012: ArvoreTriangulo3_003
+    2300014: Fogueira
+    2300016: Grama1
+    2300018: Grama10
+    2300020: Grama11
+    2300022: Grama12
+    2300024: Grama13
+    2300026: Grama2
+    2300028: Grama3
+    2300030: Grama4
+    2300032: Grama5
+    2300034: Grama6
+    2300036: Grama7
+    2300038: Grama8
+    2300040: Grama9
+    2300042: Gramado
+    2300044: Pedra1
+    2300046: Pedra2
+    2300048: Pedra3
+    2300050: Pedra4
+    3300000: Arvore1
+    3300002: Arvore2_001
+    3300004: Arvore3
+    3300006: ArvoreTriangulo1_001
+    3300008: ArvoreTriangulo2_000
+    3300010: ArvoreTriangulo2_001
+    3300012: ArvoreTriangulo3_003
+    3300014: Fogueira
+    3300016: Grama1
+    3300018: Grama10
+    3300020: Grama11
+    3300022: Grama12
+    3300024: Grama13
+    3300026: Grama2
+    3300028: Grama3
+    3300030: Grama4
+    3300032: Grama5
+    3300034: Grama6
+    3300036: Grama7
+    3300038: Grama8
+    3300040: Grama9
+    3300042: Gramado
+    3300044: Pedra1
+    3300046: Pedra2
+    3300048: Pedra3
+    3300050: Pedra4
+    4300000: ArvoreTriangulo3_003
+    4300002: ArvoreTriangulo2_001
+    4300004: ArvoreTriangulo1_001
+    4300006: Arvore2_001
+    4300008: Fogueira
+    4300010: Gramado
+    4300012: Grama5
+    4300014: Grama4
+    4300016: Grama6
+    4300018: Grama1
+    4300020: Grama3
+    4300022: Grama7
+    4300024: Grama2
+    4300026: Pedra4
+    4300028: Pedra2
+    4300030: Pedra3
+    4300032: Pedra1
+    4300034: Arvore1
+    4300036: Arvore3
+    4300038: Grama9
+    4300040: Grama8
+    4300042: Grama12
+    4300044: Grama13
+    4300046: Grama11
+    4300048: Grama10
+    4300050: ArvoreTriangulo2_000
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
